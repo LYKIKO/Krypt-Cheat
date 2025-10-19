@@ -1,5 +1,6 @@
 Krypt-Cheat {
-  Version : 1.0.1,
+  Version : 1.0.2,
   update : "https://pub-b7643f59c0ab44fab70f6ef0d7feae0f.r2.dev/update.exe",
 }
+
 
