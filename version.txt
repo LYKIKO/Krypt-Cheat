@@ -1,4 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "update": "https://pub-b7643f59c0ab44fab70f6ef0d7feae0f.r2.dev/update.exe"
 }
+
