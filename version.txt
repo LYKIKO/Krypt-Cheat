@@ -1,7 +1,5 @@
 {
-  "Version": "1.0.0",
-  "update": "nill"
+    "Version": "1.0.0",
+    "update": "",
+    "release_notes": "New Feature"
 }
-
-
-
